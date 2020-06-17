@@ -2,7 +2,7 @@
 Adapter PCB to use 8565 VIC-II in place of 6569 VIC-II chips.
 
 ## License
-Do whatever you wish with these -type
+Do whatever you wish with these -type, aka Open Hardware
 
 ## PICS
 

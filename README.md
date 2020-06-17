@@ -6,6 +6,10 @@ The adapter should also work with NTSC 8562 allowing it to be used in machines t
 ## License
 Do whatever you wish with these -type, aka Open Hardware
 
+## Ready-made PCBs
+
+Order here: https://www.pcbway.com/project/shareproject/VIC_II_8565_8562_to_6569_6567_adapter.html
+
 ## PICS
 
 ![TOP](https://raw.githubusercontent.com/Jartza/8565_adapter/master/img/top.svg)
